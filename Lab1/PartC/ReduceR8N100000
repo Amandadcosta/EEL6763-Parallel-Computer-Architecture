@@ -1,0 +1,30 @@
+Number of elements for rank 6 is : 12500
+G(x) is 2.215829 from rank 6
+Number of workers: 8
+Number of elements for rank 7 is : 12500
+G(x) is 2.149866 from rank 7
+Number of workers: 8
+Number of elements for rank 5 is : 12500
+G(x) is 2.231495 from rank 5
+Number of workers: 8
+Number of elements for rank 3 is : 12500
+G(x) is 2.164302 from rank 3
+Number of workers: 8
+Number of elements for rank 1 is : 12500
+G(x) is 2.267825 from rank 1
+Number of workers: 8
+Number of elements for rank 4 is : 12500
+G(x) is 2.184736 from rank 4
+Number of workers: 8
+Number of elements for rank 0 is : 12501
+G(x) is 2.187904 from rank 0
+Number of workers: 8
+
+******************************************************
+Estimated result = 17.630349 
+Time taken = 0.02972924 sec
+
+******************************************************
+Number of elements for rank 2 is : 12500
+G(x) is 2.228393 from rank 2
+Number of workers: 8

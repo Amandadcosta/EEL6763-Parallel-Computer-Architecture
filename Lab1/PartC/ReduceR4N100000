@@ -1,0 +1,18 @@
+Number of elements for rank 2 is : 25000
+G(x) is 4.416231 from rank 2
+Number of workers: 4
+Number of elements for rank 1 is : 25000
+G(x) is 4.392695 from rank 1
+Number of workers: 4
+Number of elements for rank 3 is : 25000
+G(x) is 4.365694 from rank 3
+Number of workers: 4
+Number of elements for rank 0 is : 25001
+G(x) is 4.457430 from rank 0
+Number of workers: 4
+
+******************************************************
+Estimated result = 17.632050 
+Time taken = 0.03590510 sec
+
+******************************************************

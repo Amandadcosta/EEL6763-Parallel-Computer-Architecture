@@ -1,0 +1,54 @@
+Number of elements for rank 13 is : 6250
+G(x) is 1.113291 from rank 13
+Number of workers: 16
+Number of elements for rank 9 is : 6250
+G(x) is 1.093748 from rank 9
+Number of workers: 16
+Number of elements for rank 0 is : 6251
+G(x) is 1.082804 from rank 0
+Number of workers: 16
+
+******************************************************
+Estimated result = 17.630349 
+Time taken = 0.00482285 sec
+
+******************************************************
+Number of elements for rank 14 is : 6250
+G(x) is 1.055078 from rank 14
+Number of workers: 16
+Number of elements for rank 11 is : 6250
+G(x) is 1.097569 from rank 11
+Number of workers: 16
+Number of elements for rank 5 is : 6250
+G(x) is 1.069354 from rank 5
+Number of workers: 16
+Number of elements for rank 4 is : 6250
+G(x) is 1.159038 from rank 4
+Number of workers: 16
+Number of elements for rank 12 is : 6250
+G(x) is 1.102538 from rank 12
+Number of workers: 16
+Number of elements for rank 15 is : 6250
+G(x) is 1.094788 from rank 15
+Number of workers: 16
+Number of elements for rank 3 is : 6250
+G(x) is 1.142525 from rank 3
+Number of workers: 16
+Number of elements for rank 7 is : 6250
+G(x) is 1.084934 from rank 7
+Number of workers: 16
+Number of elements for rank 10 is : 6250
+G(x) is 1.133926 from rank 10
+Number of workers: 16
+Number of elements for rank 1 is : 6250
+G(x) is 1.105100 from rank 1
+Number of workers: 16
+Number of elements for rank 2 is : 6250
+G(x) is 1.125300 from rank 2
+Number of workers: 16
+Number of elements for rank 6 is : 6250
+G(x) is 1.079368 from rank 6
+Number of workers: 16
+Number of elements for rank 8 is : 6250
+G(x) is 1.090988 from rank 8
+Number of workers: 16
