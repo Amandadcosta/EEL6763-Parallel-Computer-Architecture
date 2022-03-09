@@ -1,0 +1,37 @@
+Number of elements for rank 6 is : 12500
+G(x) is 2.215829 from rank 6
+Partial results sent back by rank 6 is:2.215829
+Number of elements for rank 7 is : 12500
+G(x) is 2.149866 from rank 7
+Partial results sent back by rank 7 is:2.149866
+Number of elements for rank 3 is : 12500
+G(x) is 2.164302 from rank 3
+Partial results sent back by rank 3 is:2.164302
+Number of elements for rank 1 is : 12500
+G(x) is 2.267825 from rank 1
+Partial results sent back by rank 1 is:2.267825
+Number of elements for rank 0 is : 12501
+G(x) is 2.187904 from rank 0
+Number of workers: 8
+Received results from task 1
+Received results from task 2
+Received results from task 3
+Received results from task 4
+Received results from task 5
+Received results from task 6
+Received results from task 7
+
+******************************************************
+Estimated result = 17.630349 
+Time taken = 0.00890723 sec
+
+******************************************************
+Number of elements for rank 2 is : 12500
+G(x) is 2.228393 from rank 2
+Partial results sent back by rank 2 is:2.228393
+Number of elements for rank 4 is : 12500
+G(x) is 2.184736 from rank 4
+Partial results sent back by rank 4 is:2.184736
+Number of elements for rank 5 is : 12500
+G(x) is 2.231495 from rank 5
+Partial results sent back by rank 5 is:2.231495

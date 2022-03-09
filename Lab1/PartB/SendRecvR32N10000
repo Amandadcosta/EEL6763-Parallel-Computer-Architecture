@@ -1,0 +1,133 @@
+Number of elements for rank 1 is : 313
+G(x) is 0.492776 from rank 1
+Partial results sent back by rank 1 is:0.492776
+Number of elements for rank 0 is : 313
+G(x) is 0.603084 from rank 0
+Number of workers: 32
+Received results from task 1
+Received results from task 2
+Received results from task 3
+Received results from task 4
+Received results from task 5
+Received results from task 6
+Received results from task 7
+Received results from task 8
+Received results from task 9
+Received results from task 10
+Received results from task 11
+Received results from task 12
+Received results from task 13
+Received results from task 14
+Received results from task 15
+Received results from task 16
+Received results from task 17
+Received results from task 18
+Received results from task 19
+Received results from task 20
+Received results from task 21
+Received results from task 22
+Received results from task 23
+Received results from task 24
+Received results from task 25
+Received results from task 26
+Received results from task 27
+Received results from task 28
+Received results from task 29
+Received results from task 30
+Received results from task 31
+
+******************************************************
+Estimated result = 17.607673 
+Time taken = 0.00076907 sec
+
+******************************************************
+Number of elements for rank 10 is : 313
+G(x) is 0.491725 from rank 10
+Partial results sent back by rank 10 is:0.491725
+Number of elements for rank 18 is : 312
+G(x) is 0.482377 from rank 18
+Partial results sent back by rank 18 is:0.482377
+Number of elements for rank 15 is : 313
+G(x) is 0.590924 from rank 15
+Partial results sent back by rank 15 is:0.590924
+Number of elements for rank 16 is : 313
+G(x) is 0.580899 from rank 16
+Partial results sent back by rank 16 is:0.580899
+Number of elements for rank 13 is : 313
+G(x) is 0.371832 from rank 13
+Partial results sent back by rank 13 is:0.371832
+Number of elements for rank 2 is : 313
+G(x) is 0.547123 from rank 2
+Partial results sent back by rank 2 is:0.547123
+Number of elements for rank 30 is : 312
+G(x) is 0.502925 from rank 30
+Partial results sent back by rank 30 is:0.502925
+Number of elements for rank 21 is : 312
+G(x) is 0.431770 from rank 21
+Partial results sent back by rank 21 is:0.431770
+Number of elements for rank 23 is : 312
+G(x) is 0.627920 from rank 23
+Partial results sent back by rank 23 is:0.627920
+Number of elements for rank 11 is : 313
+G(x) is 0.494011 from rank 11
+Partial results sent back by rank 11 is:0.494011
+Number of elements for rank 28 is : 312
+G(x) is 0.595432 from rank 28
+Partial results sent back by rank 28 is:0.595432
+Number of elements for rank 17 is : 312
+G(x) is 0.400323 from rank 17
+Partial results sent back by rank 17 is:0.400323
+Number of elements for rank 8 is : 313
+G(x) is 0.660847 from rank 8
+Partial results sent back by rank 8 is:0.660847
+Number of elements for rank 14 is : 313
+G(x) is 0.691326 from rank 14
+Partial results sent back by rank 14 is:0.691326
+Number of elements for rank 12 is : 313
+G(x) is 0.590778 from rank 12
+Partial results sent back by rank 12 is:0.590778
+Number of elements for rank 31 is : 312
+G(x) is 0.604066 from rank 31
+Partial results sent back by rank 31 is:0.604066
+Number of elements for rank 3 is : 313
+G(x) is 0.507486 from rank 3
+Partial results sent back by rank 3 is:0.507486
+Number of elements for rank 29 is : 312
+G(x) is 0.583648 from rank 29
+Partial results sent back by rank 29 is:0.583648
+Number of elements for rank 26 is : 312
+G(x) is 0.649224 from rank 26
+Partial results sent back by rank 26 is:0.649224
+Number of elements for rank 4 is : 313
+G(x) is 0.462110 from rank 4
+Partial results sent back by rank 4 is:0.462110
+Number of elements for rank 27 is : 312
+G(x) is 0.580452 from rank 27
+Partial results sent back by rank 27 is:0.580452
+Number of elements for rank 22 is : 312
+G(x) is 0.441924 from rank 22
+Partial results sent back by rank 22 is:0.441924
+Number of elements for rank 20 is : 312
+G(x) is 0.652081 from rank 20
+Partial results sent back by rank 20 is:0.652081
+Number of elements for rank 19 is : 312
+G(x) is 0.653136 from rank 19
+Partial results sent back by rank 19 is:0.653136
+Number of elements for rank 24 is : 312
+G(x) is 0.500550 from rank 24
+Partial results sent back by rank 24 is:0.500550
+Number of elements for rank 25 is : 312
+G(x) is 0.676101 from rank 25
+Partial results sent back by rank 25 is:0.676101
+Number of elements for rank 9 is : 313
+G(x) is 0.480801 from rank 9
+Partial results sent back by rank 9 is:0.480801
+Number of elements for rank 6 is : 313
+G(x) is 0.648642 from rank 6
+Partial results sent back by rank 6 is:0.648642
+Number of elements for rank 7 is : 313
+G(x) is 0.597079 from rank 7
+Partial results sent back by rank 7 is:0.597079
+Number of elements for rank 5 is : 313
+G(x) is 0.414302 from rank 5
+Partial results sent back by rank 5 is:0.414302
